@@ -139,8 +139,8 @@ ul {
 
 
 .what-i-do{
-  margin: 10px;
-  text-align: center;
+ margin: auto;
+ background-color: #FFF8F3;
 }
 .what-i-do-card{
   margin: 30px;
