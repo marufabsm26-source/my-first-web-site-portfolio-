@@ -136,3 +136,30 @@ ul {
   padding: 10px;
   border-radius: 10px;
 }
+
+
+.what-i-do{
+  margin: 10px;
+  text-align: center;
+}
+.what-i-do-card{
+  margin: 30px;
+  display: flex;
+  gap: 10px;
+  padding: 20px;
+  justify-content: space-between;
+}
+.card{
+  margin: 23px;
+  padding: 20px;
+  text-align: left;
+  background-color: #ffffff ;
+  border-radius: 10px;
+  box-shadow: #FFF8F3;
+}
+.p-1{
+  font-weight: 700;
+  font-size: 20px;
+  margin: 10px 0px;
+  padding: 10px;
+}
